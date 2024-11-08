@@ -1,9 +1,10 @@
+import java.util.Scanner;
 public class intjav {
     public static void main(String args[]) {
-    int num;
+    int s;
 
     System.out.println("Enter the integer: ");
-    Scanner s = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 
     }
 }
